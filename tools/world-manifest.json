@@ -1,0 +1,199 @@
+{
+  "characters": [
+    {
+      "id": "picklefoot",
+      "name": "Sir Picklefoot",
+      "rarity": "Common",
+      "income": 1,
+      "mutation": "Normal",
+      "x": -60,
+      "y": 1,
+      "z": 0,
+      "onBelt": true
+    },
+    {
+      "id": "noodlebeard",
+      "name": "Captain Noodlebeard",
+      "rarity": "Common",
+      "income": 2,
+      "mutation": "Normal",
+      "x": -30,
+      "y": 1,
+      "z": 0,
+      "onBelt": true
+    },
+    {
+      "id": "croissant",
+      "name": "Madame Croissant",
+      "rarity": "Rare",
+      "income": 5,
+      "mutation": "Normal",
+      "x": 0,
+      "y": 1,
+      "z": 0,
+      "onBelt": true
+    },
+    {
+      "id": "wobble",
+      "name": "Baron Von Wobble",
+      "rarity": "Rare",
+      "income": 8,
+      "mutation": "Normal",
+      "x": 30,
+      "y": 1,
+      "z": 0,
+      "onBelt": true
+    },
+    {
+      "id": "bananas",
+      "name": "Professor Bananas",
+      "rarity": "Epic",
+      "income": 15,
+      "mutation": "Normal",
+      "x": 60,
+      "y": 1,
+      "z": 0,
+      "onBelt": true
+    },
+    {
+      "id": "picklefoot",
+      "name": "Sir Picklefoot",
+      "rarity": "Common",
+      "income": 1,
+      "mutation": "Normal",
+      "x": -67,
+      "y": 0.6,
+      "z": 25,
+      "onBelt": false,
+      "plot": 4,
+      "slot": 1
+    },
+    {
+      "id": "croissant",
+      "name": "Madame Croissant",
+      "rarity": "Rare",
+      "income": 5,
+      "mutation": "Normal",
+      "x": -61,
+      "y": 0.6,
+      "z": 25,
+      "onBelt": false,
+      "plot": 4,
+      "slot": 2
+    },
+    {
+      "id": "bananas",
+      "name": "Professor Bananas",
+      "rarity": "Epic",
+      "income": 15,
+      "mutation": "Normal",
+      "x": -55,
+      "y": 0.6,
+      "z": 25,
+      "onBelt": false,
+      "plot": 4,
+      "slot": 3
+    }
+  ],
+  "signs": [
+    {
+      "text": "BRAINROT BAZAAR",
+      "pos": [
+        0,
+        9,
+        -52
+      ],
+      "size": [
+        26,
+        8
+      ],
+      "face": "Front"
+    },
+    {
+      "text": "SNACK DOCK",
+      "pos": [
+        -81.4,
+        6.5,
+        0
+      ],
+      "size": [
+        12,
+        3
+      ],
+      "face": "Right"
+    },
+    {
+      "text": "TSUNAMI ZONE",
+      "pos": [
+        88,
+        4,
+        -15
+      ],
+      "size": [
+        10,
+        3
+      ],
+      "face": "Left"
+    }
+  ],
+  "plots": [
+    {
+      "x": -58,
+      "z": -30
+    },
+    {
+      "x": 0,
+      "z": -30
+    },
+    {
+      "x": 58,
+      "z": -30
+    },
+    {
+      "x": -58,
+      "z": 30
+    },
+    {
+      "x": 0,
+      "z": 30
+    },
+    {
+      "x": 58,
+      "z": 30
+    }
+  ],
+  "slotOffsets": [
+    {
+      "x": -9,
+      "z": -5
+    },
+    {
+      "x": -3,
+      "z": -5
+    },
+    {
+      "x": 3,
+      "z": -5
+    },
+    {
+      "x": 9,
+      "z": -5
+    },
+    {
+      "x": -9,
+      "z": 5
+    },
+    {
+      "x": -3,
+      "z": 5
+    },
+    {
+      "x": 3,
+      "z": 5
+    },
+    {
+      "x": 9,
+      "z": 5
+    }
+  ]
+}
